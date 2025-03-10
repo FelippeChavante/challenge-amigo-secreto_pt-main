@@ -20,7 +20,7 @@ function atualizarlista(){
     listaAmigos.innerhtml = "";
 
     for(let i = 0; i , amigos.length; i++){
-        let item - document.createElement("li");
+        let item = document.createElement("li");
         item.textContent = amigos[i];
         listaAmigos.appendChild(item);
     }
