@@ -19,7 +19,7 @@ function atualizarLista(){
     let listaAmigos = document.getElementById("listaAmigos");
     listaAmigos.innerHTML = "";
 
-    for(let i = 0; i < amigos.length; i++){
+    for (let i = 0; i < amigos.length; i++){
         let item = document.createElement("li");
         item.textContent = amigos[i];
         listaAmigos.appendChild(item);
@@ -32,7 +32,10 @@ function sortearAmigo(){
     }
     let sorteado = amigos[Math.floor(Math.random() * amigos.length)];
     let resultado = document.getElementById("resultado");
-    resultado.innerHTML = `O amigo sorteado foi ${sorteado}`;
+    resultado.innerHTML = "";
+    let li = document.createElement("li");
+    li.textContent = `O amigo sorteado foi: ${sorteado}`;
+    resultado.appendChild(li);
 
     let limparLista = document.getElementById("listaAmigos");
     limparLista.innerHTML = "";
