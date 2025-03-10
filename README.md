@@ -7,21 +7,6 @@ O **Amigo Secreto** é uma aplicação interativa baseada em navegador para faci
 
 ---
 
-## 📋 **Índice**
-
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Como Usar](#como-usar)
-- [Instalação](#instalação)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Capturas de Tela](#capturas-de-tela)
-- [Problemas Conhecidos](#problemas-conhecidos)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-- [Sobre Mim](#sobre-mim)
-
----
-
 ## 📌 **Descrição do Projeto**
 
 O **Amigo Secreto** é um projeto simples e intuitivo para tornar o sorteio de amigos secretos mais divertido e organizado. Ele permite que você adicione amigos à lista, sorteie um nome aleatoriamente para revelar o amigo secreto e veja o resultado diretamente na tela.
@@ -134,14 +119,6 @@ Se você gostaria de contribuir para este projeto, siga as etapas abaixo:
 ## 📄 **Licença**
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 🎥 **Demonstração em Vídeo**
-
-Assista a uma demonstração do projeto em funcionamento:
-
-[Assista ao vídeo de demonstração](https://www.youtube.com/link-para-video)
 
 ---
 
